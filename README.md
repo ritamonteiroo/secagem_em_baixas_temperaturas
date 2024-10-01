@@ -1,4 +1,7 @@
 # secagem_em_baixas_temperaturas
+
+Por favor, cite este repositório em "Citi this repository" no canto direito
+
 Exercícios de secagem em baixas temperaturas em python
 
 Scripts adaptados do livro de Armazenagem de Grãos de Queiroz e Valente (2018)
