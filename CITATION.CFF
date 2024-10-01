@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Por favor, cite este repositório da seguinte maneira:"
+authors:
+  - family-names: Monteiro
+    given-names: Rita de Cassia Mota
+    orcid: "https://orcid.org/0000-0001-9342-2779"  # Se você tiver um ORCID
+title: "Exercicios em Python de Secagem em Baixas Temperaturas"
+version: "1.0.0"
+date-released: 2024-10-01
+url: "https://github.com/ritamonteiroo/secagem_em_baixas_temperaturas.git"
